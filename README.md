@@ -2,7 +2,7 @@
 
 This repository gathers code for the paper:
 
-[Signatures of criticality in efficient coding networks, S.Safavi, M Chalk, N. K. Logothetis, and A. Levina. PNAS 2024 (in press](https://www.biorxiv.org/content/10.1101/2023.02.14.528465v1.abstract)
+[Signatures of criticality in efficient coding networks, S.Safavi, M Chalk, N. K. Logothetis, and A. Levina. PNAS 2024 (in press)](https://www.biorxiv.org/content/10.1101/2023.02.14.528465v1.abstract)
 
 Matlab codes provided in the 'visualizations' folder can be used reproduce a subset of figures of the paper.
 If any further information, code, simulated data, please feel free to contact [research@shervinsafavi.org](mailto:research@shervinsafavi.org).
